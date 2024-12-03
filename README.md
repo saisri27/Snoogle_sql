@@ -25,17 +25,4 @@
 9. For ADMIN panel http://localhost/snoogle/admin-index.php (ADMIN View)
 
 10. For SECURITY panel http://localhost/snoogle/security-index.php
-
-Credential for user panel :  
-username: snehithmadala@gmail.com 
-Password: snehith
-
-
-Credential for admin panel :  
-username:ma153@snu.edu.in 
-Password:Saisri
-
-Credential for security panel :  
-username:snehithsec@gmail.com 
-Password:security
-
+Mail me for credentials
