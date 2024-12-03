@@ -1,28 +1,16 @@
- SNoogle
+**Snoogle Database Management System**
+Snoogle is a centralized platform designed to manage the diverse facilities and finances of a campus, reducing administrative hassles. It supports functionalities like room bookings, payment tracking, sports venue reservations, and gate pass management, ensuring efficient data handling and seamless user interactions.
 
+**Features**
+User Management: Securely store and manage user data.
+Room Bookings: Reserve and track clubrooms on campus.
+Gate Pass Tracking: Manage entry and exit through gate pass approvals.
+Payment Management: Record transactions and manage shop finances.
+Sports Venue Reservations: Book sports venues efficiently.
+Admin Panel: Administrators can oversee operations and manage data.
+Database Design
+**ER Model**
+The ER model represents the relationships between various entities like users, bookings, payments, and sports venues. It provides a clear visual of the database structure and relationships.
 
-
-## How to run our project
-
-1. Install the XAMPP application
-
-2. Download the zip file and extract it
-
-3. Copy the SNoogle folder and paste it inside the root directory(inside Directory Windows/xampp/htdocs )
-
-4. open XAMPP and start apache server and sql server.
-
-5. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5. Click on new to Create a new database with the name SNoogle
-
-6. Import snoogle.sql file into the database SNoogle(given inside the zip package in SQL file folder)
-
-7. Run the script http://localhost/snoogle/index.php(FRONTEND).
-
-8. For USER panel http://localhost/snoogle/signin.php (USER View)
-
-9. For ADMIN panel http://localhost/snoogle/admin-index.php (ADMIN View)
-
-10. For SECURITY panel http://localhost/snoogle/security-index.php
-Mail me for credentials
+**Relational Model**
+Derived from the ER model, the relational model organizes data into tables with primary and foreign keys to maintain relationships between entities.
